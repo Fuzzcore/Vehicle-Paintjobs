@@ -1,4 +1,4 @@
-![screenshot](https://raw.githubusercontent.com/Fuzzcore/Vehicle-Paintjobs/refs/heads/main/random.gif){width=45%} ![screenshot](https://raw.githubusercontent.com/Fuzzcore/Vehicle-Paintjobs/refs/heads/main/chameleon.gif){width=45%}
+![screenshot](https://raw.githubusercontent.com/Fuzzcore/Vehicle-Paintjobs/refs/heads/main/random.gif) ![screenshot](https://raw.githubusercontent.com/Fuzzcore/Vehicle-Paintjobs/refs/heads/main/chameleon.gif)
 
 # Custom Vehicle Painter for Cherax 5.46.1
 A small and simple tool to play around with vehicle colors :)
@@ -30,6 +30,7 @@ How to share:
 🖼️ Screenshot
 
 ![screenshot](https://raw.githubusercontent.com/Fuzzcore/Vehicle-Paintjobs/refs/heads/main/screenshot.png)
+
 
 
 
