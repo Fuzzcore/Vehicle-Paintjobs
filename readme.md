@@ -24,12 +24,13 @@ How to share:
 4. You can also modify these files and load them in-game
 
 💁 Installation:
-1. Put `CVP.lua` in your `C:\Users\{USERNAME}\Documents\Cherax\Lua\` folder
+1. Put `Paintjobs.lua` in your `C:\Users\{USERNAME}\Documents\Cherax\Lua\` folder
 2. Load the script in-game
 
 🖼️ Screenshot
 
 ![screenshot](https://raw.githubusercontent.com/Fuzzcore/Vehicle-Paintjobs/refs/heads/main/screenshot.png)
+
 
 
 
