@@ -737,7 +737,6 @@ end)
 -- OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 -- SOFTWARE.
 
-
 local json = {}
 local esc = {['\\']='\\',['"']='"',['\b']='b',['\f']='f',['\n']='n',['\r']='r',['\t']='t'}
 local rev = {b='\b',f='\f',n='\n',r='\r',t='\t'}
@@ -793,5 +792,3 @@ function json.encode(v) return encode(v) end
 function json.decode(s) return (parse(s, 1)) end
 
 _G.json = json
-
-
