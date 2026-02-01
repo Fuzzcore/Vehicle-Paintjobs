@@ -79,7 +79,7 @@ local HeadlightColors = {
 
 local presetColors = {
    { id = 134, type = 4, name = "Pure White", r = 255, g = 255, b = 255 }, 
-   { id = 134, type = 4, name = "Pure Gold", r = 122, g = 100, b = 64 }, 
+   { id = 158, type = 4, name = "Pure Gold", r = 122, g = 100, b = 64 }, 
    { id = 117, type = 4, name = "Brushed Steel", r = 106, g = 116, b = 124 },
    { id = 118, type = 4, name = "Brushed Black steel", r = 53, g = 65, b = 88 },
    { id = 119, type = 4, name = "Brushed Aluminium", r = 155, g = 160, b = 168 },
@@ -791,4 +791,5 @@ end
 
 function json.encode(v) return encode(v) end
 function json.decode(s) return (parse(s, 1)) end
+
 _G.json = json
