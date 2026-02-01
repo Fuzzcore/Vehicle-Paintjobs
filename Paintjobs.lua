@@ -64,7 +64,7 @@ local Materials = {
    { name = "Matte", type = 3, id = { 12,13,14,39,40,41,42,55,82,83,84,128,129,131,148,149,151,152,153,154,155 } },
    { name = "Util", type = 0, id = { 15,16,17,18,19,20,43,44,45,56,57,75,76,77,78,79,80,81,108,109,110,122} },
    { name = "Worn", type = 0, id = { 21,22,23,24,25,26,46,47,48,58,59,60,85,86,87,113,114,115,116,121,123,124,126,130,132,133 } },
-   { name = "Pure", type = 4, id = 134 },
+   { name = "Pure", type = 4, id = { 134,158 } },
    { name = "Epsilon", type = 0, id = 157 },
    { name = "Brushed", type = 4, id = { 117,118,119,159 } },
    { name = "Chrome", type = 5, id = 120 },
@@ -793,3 +793,4 @@ function json.encode(v) return encode(v) end
 function json.decode(s) return (parse(s, 1)) end
 
 _G.json = json
+
