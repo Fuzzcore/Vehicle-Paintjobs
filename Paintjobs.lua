@@ -6,7 +6,7 @@ local presetPath = FileMgr.GetMenuRootPath() .. "\\Vehicles\\Paintjobs\\"
 FileMgr.CreateDir(presetPath)
 
 -- GTA 5 Natives for Cherax Mod Menu. Generated with NativeGenerator on 06-01-2026 12:40:31.
--- https://raw.githubusercontent.com/alloc8or/gta5-nativedb-data/master/natives.json
+-- https://raw.githubusercontent.com/alloc8or/gta5-nativedb-data/master/natives.json 
 local InvokeInt, InvokeVoid = Natives.InvokeInt, Natives.InvokeVoid
 PLAYER_PED_ID = function(...) return InvokeInt(0xD80958FC74E988A6, ...) end;
 GET_VEHICLE_PED_IS_IN = function(...) InvokeInt(0x9A9112A0FE9A4713, ...) end;
@@ -793,4 +793,5 @@ function json.encode(v) return encode(v) end
 function json.decode(s) return (parse(s, 1)) end
 
 _G.json = json
+
 
