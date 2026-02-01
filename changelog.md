@@ -5,6 +5,8 @@
 - Added adjustable Dirt Level
 - Improved paintjob configuration structure
 - Optimized material handling logic
-  
+- Color implementation based on the RageMP Wiki vehicle color reference (https://wiki.rage.mp/wiki/Vehicle_Colors)
+
 # Release 1.0
 - Initial release
+
