@@ -6,7 +6,7 @@ A small and simple tool to play around with vehicle colors :)
 Total beginner here! Im just starting out with Lua and GTA scripting. This project is basically a personal learning aid to help me get the hang of things
 
 ### 🎨 Features
-* Base Material: Select between Metallic, Matte, Chrome, Pure, Brushed and 32 Chameleon colors
+* Base Material: Select between Metallic, Matte, Chrome, Pure, Brushed, Worn, Util, Epsilon and 32 Chameleon colors
 * Color Mixer: Adjustments for Brightness, Saturation, and Hue Shift
 * Sync: Synchronization of Primary, Secondary, Neon, Xenon, and Tyre Smoke colors (No Wheel colors)
 * Pearl: Calculates the Pearlescent ID based on your current base color
@@ -30,6 +30,7 @@ How to share:
 🖼️ Screenshot
 
 ![screenshot](https://raw.githubusercontent.com/Fuzzcore/Vehicle-Paintjobs/refs/heads/main/screenshot.png)
+
 
 
 
