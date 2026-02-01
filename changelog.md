@@ -5,7 +5,6 @@
 - Added adjustable Dirt Level
 - Improved paintjob configuration structure
 - Optimized material handling logic
-- General code cleanup and internal refactoring
-
+  
 # Release 1.0
 - Initial release
